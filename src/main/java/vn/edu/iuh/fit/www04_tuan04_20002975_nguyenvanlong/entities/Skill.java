@@ -1,7 +1,7 @@
 package vn.edu.iuh.fit.www04_tuan04_20002975_nguyenvanlong.entities;
 
 import lombok.*;
-import vn.edu.iuh.fit.enums.SkillType;
+import vn.edu.iuh.fit.www04_tuan04_20002975_nguyenvanlong.enums.SkillType;
 
 import java.util.UUID;
 

@@ -1,7 +1,8 @@
 package vn.edu.iuh.fit.www04_tuan04_20002975_nguyenvanlong.entities;
 
 import lombok.*;
-import vn.edu.iuh.fit.enums.SkillLevel;
+
+import vn.edu.iuh.fit.www04_tuan04_20002975_nguyenvanlong.enums.SkillLevel;
 
 @NoArgsConstructor
 @AllArgsConstructor
